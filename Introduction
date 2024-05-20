@@ -1,0 +1,7 @@
+1) One example is writing code to do a sorting algorithm of a set of numbers. The model could learn to identify a sorting alorithm by comparing the given set of data with others that were sorted in a particular way. There is heuristic design choices because the type of data and size of data guides the model in searching for the appropriate algorithm.
+
+2) One example is infinite loops in a while loop. There are only a few ways to solve this issue. Therefore infinite loops are prime candidates for deep learning.
+
+3) Algorithms are "appropriate" procedures given a certain set of data. Data is the objects that are being sorted or modified by the algorithm. The computation is the implementation of the algorithm with the provided data. If you have less space but a very large batch of data a more efficient and faster algorithm would be appropriate.
+
+4) End to end training takes data directly and trains it to a particular output. This could be used in autonomouis robotics where robots could take sensor data directly and make decisions based on the collected data directly.
