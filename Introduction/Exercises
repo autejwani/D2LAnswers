@@ -1,1 +1,15 @@
+1. Any sorting code can be learned. By using a deep learning model, the algorithm best suited for sorting the particular set of 
+   data by comparing sorting solutions with a variety of different datasets. This code includes heuristic design choices because 
+   some sorting algorithms are more efficient with a particular size or type of data. You would need to know under what conditions 
+   is an algorithm selected to sort a specific set of data.
 
+2. One example is infinite loops. Infinite loops can be solved by break statements or by chnging the conditional that is never 
+   reached. Therefore, infinite loops is a good candidate for a deep learning model.
+
+3. Algorithms are ways data is analyzed or modified. Data is the objects that are analyzed or modified. Computation is the 
+   process in which the algorithm is applied to the data. If a user has a large dataset to analyze but has less space to 
+   store data during processing, a more efficient model should be used.
+
+4. End to End training can be used with autonomous robotics. Since robotics typically recieve data from various sensors, the 
+   collected data can be immediately used in the decision making instead of relying on a user to collect data of every possible 
+   situation and pre determining the following action.
